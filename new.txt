@@ -1,0 +1,3 @@
+--- a/new.txt
++++ /dev/null
+(File deleted)

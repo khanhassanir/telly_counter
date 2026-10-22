@@ -1,0 +1,15 @@
++++ b/android/app/src/main/res/drawable/ic_launcher.xml
++<?xml version="1.0" encoding="utf-8"?>
++<vector xmlns:android="http://schemas.android.com/apk/res/android"
++    android:width="48dp"
++    android:height="48dp"
++    android:viewportWidth="48"
++    android:viewportHeight="48">
++    <path
++        android:fillColor="#00796B"
++        android:pathData="M0,0h48v48h-48z"/>
++    <path
++        android:fillColor="#FFFFFF"
++        android:pathData="M24,12c-6.63,0 -12,5.37 -12,12s5.37,12 12,12s12,-5.37 12,-12s-5.37,-12 -12,-12zM22.5,17h3v5.5h5.5v3h-5.5v5.5h-3v-5.5h-5.5v-3h5.5z"/>
++</vector>
++
