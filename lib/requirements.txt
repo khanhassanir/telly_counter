@@ -1,0 +1,2 @@
+# Project requirements and dependencies
+flutter >=3.0.0
