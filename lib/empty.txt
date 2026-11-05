@@ -1,0 +1,22 @@
+// Template Functions
+
+/// Template Function A
+T functionA<T>(T value) {
+  // TODO: Implement logic for function A
+  return value;
+}
+
+/// Template Function b
+T functionB<T>(T value) {
+  // TODO: Implement logic for function b
+  return value;
+}
+
+// Void template signatures
+void templateA() {
+  // TODO: Implement template A
+}
+
+void templateB() {
+  // TODO: Implement template b
+}
