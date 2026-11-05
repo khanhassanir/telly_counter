@@ -12,6 +12,12 @@ T functionB<T>(T value) {
   return value;
 }
 
+/// Template Function C
+T functionC<T>(T value) {
+  // TODO: Implement logic for function C
+  return value;
+}
+
 // Void template signatures
 void templateA() {
   // TODO: Implement template A
@@ -19,4 +25,8 @@ void templateA() {
 
 void templateB() {
   // TODO: Implement template b
+}
+
+void templateC() {
+  // TODO: Implement template C
 }
